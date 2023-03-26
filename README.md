@@ -1,4 +1,10 @@
 # task4 + task 5
+git init
+git add .
+git commit -m "first commit"
+git remote add origin https/github/byese.git
+git branch -M main
+git push -u origin main
 
 A new Flutter project.
 
